@@ -1,6 +1,7 @@
 # redbrootw
 FREE OPENCART TO WOOCOMMERCE EXPORT-IMPORT PLUGIN
-Free plugin for Export product data
+
+Free plugin for IMPORT product data
 
 FULL FREE WORKING!
 - import products base params
