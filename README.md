@@ -11,10 +11,14 @@ FULL FREE WORKING!
 - import galery
 - import base price
 - convert stock vars
+
+  
 In process
 - import SEO
 - import Quanity
 - import Sale price
+
+  
 Coming soon
 - import category images
 - logger errors
