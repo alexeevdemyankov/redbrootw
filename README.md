@@ -3,6 +3,9 @@ FREE OPENCART TO WOOCOMMERCE REMOTE-IMPORT PLUGIN
 
 Free plugin for IMPORT product data
 
+Tested  Opencart 2.3.0.2 -> Wordpress 6.3.2 
+
+
 FULL FREE WORKING!
 - import products base params
 - import category
